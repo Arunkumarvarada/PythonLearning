@@ -1,0 +1,5 @@
+list=[233,44,55,66,77,909]
+print(sum(list))
+print(max(list))
+print(min(list))
+print(len(list))

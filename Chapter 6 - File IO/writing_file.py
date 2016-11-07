@@ -1,0 +1,5 @@
+file1= open("FileOperations.txt","w")
+file1.write(" Am Writing into file now")
+file1.close()
+file1= open("FileOperations.txt","r")
+print(file1.read())

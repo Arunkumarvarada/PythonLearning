@@ -1,0 +1,7 @@
+print(abs(-11))
+print(abs(2))
+print(bool(0))
+print(bool(None))
+print(bool(33))
+print(bool(43))
+print(bool("arun"))
